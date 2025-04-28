@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/vlcosent-agentcare-mcp-azalea)
+
 # Agent Care MCP Server - Azalea Health Integration
 
 This repository contains the configuration for connecting the Agent Care MCP server to Azalea Health's Ambulatory FHIR API.
